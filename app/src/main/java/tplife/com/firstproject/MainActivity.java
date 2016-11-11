@@ -21,6 +21,13 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("this is my first test");
     }
 
+    private void  test3(){
+        System.out.println("this is my first test");
+    }
+
+    private void  test4(){
+        System.out.println("this is my first test");
+    }
 
 
 }
