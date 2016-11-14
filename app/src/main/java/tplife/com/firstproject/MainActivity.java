@@ -30,4 +30,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    private void  test5(){
+        System.out.println("this is my first test");
+    }
+
+    private void  dev1(){
+        System.out.println("this is my first test");
+    }
 }
